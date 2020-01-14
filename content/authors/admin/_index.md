@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Anubhav Mittal
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Undergrad in Electrical Engineering
+#Second major in Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Indian Institute of Technology, Kanpur
+  url: "http://www.iitk.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Convex Optimization
+- Computer Vision
+- CS Theory
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Exchange semester in CS
+    institution: EPFL, Switzerland
+    year: Fall of 2018
+  - course: B.Tech in EE with a second major in CS
+    institution: IIT Kanpur, India
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +44,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:anubhavm@iitk.ac.in'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/anubhavm11
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/anubhav-mittal-7a170310a/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a senior undergraduate at [IIT Kanpur](http://www.iitk.ac.in/) majoring in Electrical Engineering with a second major in Computer Science. I am interested in solving problems in Machine Learning, Convex Optimization and Computer Vision.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Presently, I am a research assistant at IITK's [SPiN Lab](http://home.iitk.ac.in/~ketan/spinlab/index.html), working with [Prof. Ketan Rajawat](http://home.iitk.ac.in/~ketan/) on problems in online convex optimization. We are currently working on my first paper, which we plan to submit soon.
+
+Prior to this, I have worked with [Prof. Satyadev Nandakumar](https://www.cse.iitk.ac.in/users/satyadev/), where we focused on developing a principled intuition behind Hamiltonian Monte Carlo and its optimal implementations. I also had the chance to work with [Prof. Vinay P. Namboodiri](https://vinaypn.github.io/) and Ravindra Yadav on video generation using VAEs. In the summer of 2018, I was an intern in the Isolation Product Line of [Texas Instruments, India](http://www.ti.com/isolation/overview.html), working with [Koteshwar Rao](https://www.linkedin.com/in/koteshwarraoj/) to improve upon the design of TI's digital isolators.
